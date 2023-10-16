@@ -1,0 +1,13 @@
+body {
+    background-image: url('background.jpg'); /* Substitua com o caminho da sua imagem de fundo */
+    background-size: cover;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    border: 2px solid #000;
+}
